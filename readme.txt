@@ -1,1 +1,1 @@
-creating a new branch dev is quick
+creating a new branch dev is quick AND simple
